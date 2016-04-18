@@ -1,1 +1,16 @@
+<title>Portfolio</title>
+ <a href="index.html">Home</a>. 
+<center>
+<img src="logo.png">
 
+<style>
+  body {
+   font-family: impact;
+  }
+p {
+ font-family: Arial;
+}
+a{
+ text-decoration: none;
+color: brown;
+ font-family:sans-serif;
